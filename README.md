@@ -1,2 +1,3 @@
-# spotify.py
-:musical_note: :green_heart:  Spotify Account Checker made with selenium-webdriver.js
+# spotify.js :musical_note:
+
+made using selenium-webdriver.js
